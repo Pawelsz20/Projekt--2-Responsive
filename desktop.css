@@ -1,0 +1,129 @@
+.container {
+  width: 960px;
+}
+
+.img-mobile {
+  display: none;
+}
+
+.img-desktop {
+  display: block;
+}
+
+nav .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav__links {
+  display: flex;
+  justify-content: space-between;
+  width: 247px;
+}
+
+
+
+
+.landing__page {
+  height: 100vh;
+}
+
+.landing-page-btn:hover {
+  color: black;
+  background-color: white;
+}
+
+.specialists {
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+.specialists h1 {
+  margin-bottom: 80px;
+  text-align: left;
+}
+
+.profile {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+
+
+.first-profile--text {
+  margin-left: 60px;
+  font-size: 18px;
+}
+
+.first-profile--text h2 {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.first-profile--text p {
+  width: 700px;
+}
+
+.second__profile {
+  margin-top: 104px;
+  text-align: right;
+}
+
+.second-profile--text {
+  margin-right: 60px;
+}
+
+.second-profile--text p {
+  font-size: 18px;
+  width: 700px;
+  text-align: right;
+}
+
+.second-profile--text h2 {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+
+
+
+.box--item:hover {
+  transform: scale(1.05);
+}
+
+
+.box--item:nth-of-type(3n) {
+  margin-right: 0;
+}
+
+
+
+
+.box--item:hover {
+  transform: scale(1.05);
+}
+
+
+.offer h1 {
+  font-size: 36px;
+  text-align: left;
+}
+
+
+
+
+footer {
+  height: 70px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 960px;
+}

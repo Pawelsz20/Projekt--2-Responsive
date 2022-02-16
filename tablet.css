@@ -1,0 +1,43 @@
+.container {
+    width: 96%;
+}
+
+.profile-image {
+    margin-right: 60px;
+}
+
+
+.offer h1 {
+    font-size: 25px;
+}
+
+.first-profile--text p {
+    width: 475px;
+}
+
+
+.second-profile--text p {
+    width: 475px;
+}
+
+
+
+
+
+
+.box--item {
+    margin-right: 63px;
+}
+
+footer .container {
+    font-size: 18px;
+    width: 500px;
+}
+
+.footer-icons {
+    margin-top: 10px;
+}
+
+footer {
+    height: 100px;
+}
